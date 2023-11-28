@@ -1,0 +1,39 @@
+Wyświetl kod strony: Ctrl+U
+<!--
+1.Napisz podstawową strukturę dokumentu HTML
+2.Zapisz dokument jako HTML
+3.Napisz tytuł strony stopnia 1
+4.Zmień kolor i krój tytułu z pomoca HTML
+5.Wstaw obraz ze strony Lorem Picsum, dodaj atrubut alt
+6.Napisz dwa akapity z tekstem ze strony generatora Lorem Ipsum (7-8 zdań)
+7.Zmień rozmiar i kolor czcionki dla akapitów
+8.Wstaw listę nieuporządkowaną pór roku: Wisna, Lato, Jesień, Zima.
+9.Dodaj miesiące dla wiosna jako listę zagniżdżoną
+10.Dodaj rzymską numerację miesięcy dla Wiosna: Marzec, Kwiecień, Maj
+11.Zmień kolor tekstu  w postaci heksadecymalnej dla Wiosny: jasnozielony
+12.Zmień kolor w postaci rgb tekstu dla Lata: pomarańczowy 
+13.Zmień położenie obrazu do prawej strony (atrybut align)
+14.Dodaj odstęp obrazu od tekstu akapitu na 20 px(atrybut vspace i hspace)
+15.Obraz jako odsyłacz do strony "Lorem Picsum"
+15.Wstaw odyłacz wewnętrzny na dole strony z tekstem "Koniec", tak aby przenosił do góry strony gdzie wyświetlony jest napis "Początek"
+Pomoc Prezentacje: Wykłady HTML -->
+<...>
+</...>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
